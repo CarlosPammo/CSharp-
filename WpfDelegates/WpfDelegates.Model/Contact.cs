@@ -5,6 +5,9 @@ using System.Text;
 
 namespace WpfDelegates.Model
 {
+    /// <summary>
+    /// Contact is an entity that represents a new contact
+    /// </summary>
 	public class Contact
 	{
 		public string Name { get; set; }

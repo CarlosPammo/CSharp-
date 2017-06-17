@@ -31,3 +31,5 @@ C:\Users\pc9\Desktop\WpfDelegates\WpfDelegates\obj\x86\Debug\WpfDelegates_Markup
 C:\Users\pc9\Desktop\WpfDelegates\WpfDelegates\obj\x86\Debug\WpfDelegates.g.resources
 C:\Users\pc9\Desktop\WpfDelegates\WpfDelegates\obj\x86\Debug\WpfDelegates.Properties.Resources.resources
 C:\Users\pc9\Desktop\WpfDelegates\WpfDelegates\obj\x86\Debug\WpfDelegates.csproj.GenerateResource.Cache
+E:\CSharp-\WpfDelegates\WpfDelegates\obj\x86\Debug\WpfDelegates.exe
+E:\CSharp-\WpfDelegates\WpfDelegates\obj\x86\Debug\WpfDelegates.pdb
