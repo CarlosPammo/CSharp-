@@ -10,6 +10,9 @@ namespace WpfDelegates.Model
     /// </summary>
 	public class Contact
 	{
+        /// <summary>
+        /// Name is a property that contains users name
+        /// </summary>
 		public string Name { get; set; }
 		public string Lastname { get; set; }
 		public string Telephone { get; set; }
