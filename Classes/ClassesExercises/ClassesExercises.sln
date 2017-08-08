@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesExercises", "Classes
 EndProject
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractInheritance", "AbstractInheritance\AbstractInheritance.csproj", "{AB7DB612-43C3-4B71-B529-3A83CBB6D6F5}"
 EndProject
@@ -15,6 +16,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{58C279EA-2669-44A4-BDDE-79ED6EA28232}"
 EndProject
 >>>>>>> remotes/origin/Interface
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event", "Event\Event.csproj", "{3B799DDE-0F1E-4F2C-A896-9484282F864D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threads", "Threads\Threads.csproj", "{A4BC5103-A8F9-4927-BB03-D6B50D8A7498}"
+EndProject
+>>>>>>> Threading
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +32,7 @@ Global
 		{D4BB4589-8CD4-4077-BC42-8268D1E35D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4BB4589-8CD4-4077-BC42-8268D1E35D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4BB4589-8CD4-4077-BC42-8268D1E35D41}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -39,6 +47,16 @@ Global
 		{58C279EA-2669-44A4-BDDE-79ED6EA28232}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58C279EA-2669-44A4-BDDE-79ED6EA28232}.Release|Any CPU.Build.0 = Release|Any CPU
 >>>>>>> remotes/origin/Interface
+=======
+		{3B799DDE-0F1E-4F2C-A896-9484282F864D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B799DDE-0F1E-4F2C-A896-9484282F864D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B799DDE-0F1E-4F2C-A896-9484282F864D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B799DDE-0F1E-4F2C-A896-9484282F864D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4BC5103-A8F9-4927-BB03-D6B50D8A7498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4BC5103-A8F9-4927-BB03-D6B50D8A7498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4BC5103-A8F9-4927-BB03-D6B50D8A7498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4BC5103-A8F9-4927-BB03-D6B50D8A7498}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> Threading
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
