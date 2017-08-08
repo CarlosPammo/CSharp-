@@ -8,6 +8,7 @@ EndProject
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractInheritance", "AbstractInheritance\AbstractInheritance.csproj", "{AB7DB612-43C3-4B71-B529-3A83CBB6D6F5}"
 EndProject
@@ -22,6 +23,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threads", "Threads\Threads.csproj", "{A4BC5103-A8F9-4927-BB03-D6B50D8A7498}"
 EndProject
 >>>>>>> Threading
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{43829E72-E478-4E34-9856-5725296FCBBE}"
+EndProject
+>>>>>>> remotes/origin/Events
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +37,7 @@ Global
 		{D4BB4589-8CD4-4077-BC42-8268D1E35D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4BB4589-8CD4-4077-BC42-8268D1E35D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4BB4589-8CD4-4077-BC42-8268D1E35D41}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -57,6 +63,12 @@ Global
 		{A4BC5103-A8F9-4927-BB03-D6B50D8A7498}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4BC5103-A8F9-4927-BB03-D6B50D8A7498}.Release|Any CPU.Build.0 = Release|Any CPU
 >>>>>>> Threading
+=======
+		{43829E72-E478-4E34-9856-5725296FCBBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43829E72-E478-4E34-9856-5725296FCBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43829E72-E478-4E34-9856-5725296FCBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43829E72-E478-4E34-9856-5725296FCBBE}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> remotes/origin/Events
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
