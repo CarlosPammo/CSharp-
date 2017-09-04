@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesExercises", "ClassesExercises\ClassesExercises.csproj", "{D4BB4589-8CD4-4077-BC42-8268D1E35D41}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threads", "Threads\Threads.csproj", "{A4BC5103-A8F9-4927-BB03-D6B50D8A7498}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{43829E72-E478-4E34-9856-5725296FCBBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportList", "ExportList\ExportList.csproj", "{2ED8E6F4-B547-440E-BB10-31CE93DEA9AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{43829E72-E478-4E34-9856-5725296FCBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43829E72-E478-4E34-9856-5725296FCBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43829E72-E478-4E34-9856-5725296FCBBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ED8E6F4-B547-440E-BB10-31CE93DEA9AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ED8E6F4-B547-440E-BB10-31CE93DEA9AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ED8E6F4-B547-440E-BB10-31CE93DEA9AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ED8E6F4-B547-440E-BB10-31CE93DEA9AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
